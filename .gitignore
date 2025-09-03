@@ -1,0 +1,14 @@
+# Node
+frontend/node_modules
+frontend/build
+
+# .NET
+backend/bin
+backend/obj
+
+# Env files
+*.env
+.env
+
+# Visual Studio
+.vs/
