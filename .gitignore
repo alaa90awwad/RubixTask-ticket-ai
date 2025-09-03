@@ -1,14 +1,14 @@
-# Frontend
-Frontend/node_modules
-Frontend/build
+# FRONTEND (CRA)
+Frontend/ticketai-frontend/node_modules
+Frontend/ticketai-frontend/build
 
-# Backend
+# BACKEND (.NET)
 Backend/**/bin
 Backend/**/obj
 
-# IDE
+# IDE/workspace
 .vs/
 
-# Env files
+# Env
 *.env
 .env
