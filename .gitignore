@@ -1,14 +1,14 @@
-# Node
-frontend/node_modules
-frontend/build
+# Frontend
+Frontend/node_modules
+Frontend/build
 
-# .NET
-backend/bin
-backend/obj
+# Backend
+Backend/**/bin
+Backend/**/obj
+
+# IDE
+.vs/
 
 # Env files
 *.env
 .env
-
-# Visual Studio
-.vs/
